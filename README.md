@@ -1,2 +1,2 @@
-# On_how_a_mouse_cant_hide_its_thoughts
-A project for predicting a mouse's trajectory based on hippocampal activity
+# On_how_mice_cant_hide_their_thoughts
+A project for analyzing behavioral trajectories based on hippocampal activity
